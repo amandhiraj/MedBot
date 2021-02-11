@@ -1,6 +1,9 @@
 # MedBot
 This is a project done at LassondeGames (Hackathon) where we used MERN stack (MongoDB, Express.js, React.js, Node.js) to build a web application.
 
+# Mission Statement (CaseWare - Placed First)
+Your task is to design and develop a software system to improve the autonomy and accessibility of healthcare among the senior population in Toronto’s Quayside. Healthcare in this context spans a multitude of areas including nursing/house calls, hospital visits, clinic appointments, emergency response, and even routine at-home medications.Your focus will be on user experience and overall lifestyle benefit. The system should make some healthcare-related aspect of the user’s life easier or more accessible. You can develop your solution in any programming language and use any libraries/APIs/third-party services as you see fit(with proper crediting and acknowledgements).
+
 # Collabration
 Work in teams of 4:
 
