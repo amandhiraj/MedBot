@@ -1,0 +1,12 @@
+.react-calendar{
+    max-width:100%;
+    background:white;
+    border:1px solid;
+}
+
+.cal { 
+    max-width:100%;
+    background:white;
+    border:1px solid;
+    height: 100%;
+}
