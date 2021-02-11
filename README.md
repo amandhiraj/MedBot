@@ -56,7 +56,7 @@ Work in teams of 4:
 # Screenshots
 Login Page                 |  Symptoms Page            |  Medicine Page            |  Appointment Page            
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/amandhiraj/MedBot/main/Images/Login.png)  |  ![](https://raw.githubusercontent.com/amandhiraj/MedBot/main/Images/symptoms.png)  |  ![](https://raw.githubusercontent.com/amandhiraj/MedBot/main/Images/Medicine.png) |  ![](https://raw.githubusercontent.com/amandhiraj/MedBot/main/Images/appointment.png)
+![](https://raw.githubusercontent.com/amandhiraj/MedBot/main/Images/login.png)  |  ![](https://raw.githubusercontent.com/amandhiraj/MedBot/main/Images/symptoms.png)  |  ![](https://raw.githubusercontent.com/amandhiraj/MedBot/main/Images/Medicine.png) |  ![](https://raw.githubusercontent.com/amandhiraj/MedBot/main/Images/appointment.png)
 
 ## License
 
