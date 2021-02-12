@@ -18,7 +18,7 @@ Worked in teams of 4:
 				</sub>
 			</a>
 			<br />
-			<p>Worked Backend & Front-End</p>
+			<p>Worked on Backend & Front-End</p>
 		</td>
 		<td align="center">
 			<a href="https://github.com/hamzak9">
@@ -40,7 +40,7 @@ Worked in teams of 4:
 				</sub>
 			</a>
 			<br />
-			<p>Worked Front-End & Backend</p>
+			<p>Worked on Front-End & Backend</p>
 		</td>
 		<td align="center">
 			<a href="https://github.com/KunalsDatabase">
